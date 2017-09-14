@@ -1,6 +1,6 @@
 # HomeWork 1
 ## Contributers
-* Liyi
+* Liyi Cao：<caoliyi@bu.edu>
 * Anish Asthana: <asthana@bu.edu>
 * Jiaxin Tang: <jxtang@bu.edu>
 
