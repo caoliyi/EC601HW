@@ -1,7 +1,7 @@
 # HomeWork 1
 ## Contributers
 * Liyi
-* Anish
+* Anish Asthana: <asthana@bu.edu>
 * Jiaxin
 
 ## Project Description:
