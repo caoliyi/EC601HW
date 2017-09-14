@@ -1,4 +1,3 @@
-
 # HomeWork 1
 ## Contributers
 * Liyi
