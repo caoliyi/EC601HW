@@ -20,4 +20,6 @@ The aim of this project is to familiarize ourselves with industry-standard softw
 4. Run names.py (python names.py).
 5. If you wish to run the model with a different dataset, just replace the contents in data/SmallNames.txt OR create a new textfile in /data/ and update names.py to look for the new file instead.
 
+## Screenshots:
+Run original SmallNames.txt :
 ![image](https://github.com/caoliyi/EC601HW/blob/adding_software_instruction/namignizer/Output_screenshot.png)
