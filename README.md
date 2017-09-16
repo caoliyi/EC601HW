@@ -12,3 +12,9 @@ The aim of this project is to familiarize ourselves with industry-standard softw
 4. Learn how to Tensorflow works.
 5. Pick a model - We chose namignizer.
 6. Modify Namignizer to have some updated outputs. 
+
+## Software Setup:
+1. Install Python 3 - Downloads can be found [here](https://www.python.org/downloads/).
+2. Install Tensorflow - The easiest way to install it is to use pip (pip install tensorflow).
+3. Clone this repository, there is a test file inside the data folder.
+4. Run names.py (python names.py).
