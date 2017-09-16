@@ -16,5 +16,6 @@ The aim of this project is to familiarize ourselves with industry-standard softw
 ## Software Setup:
 1. Install Python 3 - Downloads can be found [here](https://www.python.org/downloads/).
 2. Install Tensorflow - The easiest way to install it is to use pip (pip install tensorflow).
-3. Clone this repository, there is a test file inside the data folder.
+3. Clone this repository.
 4. Run names.py (python names.py).
+5. If you wish to run the model with a different dataset, just replace the contents in data/SmallNames.txt
