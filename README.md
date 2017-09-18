@@ -24,3 +24,7 @@ The aim of this project is to familiarize ourselves with industry-standard softw
 Run original SmallNames.txt :
 
 ![image](https://github.com/caoliyi/EC601HW/blob/adding_software_instruction/namignizer/Output_screenshot.png)
+
+Learning rate was changed, resulted in decreased running time and varied result perplexity. 
+
+![image](https://github.com/caoliyi/EC601HW/blob/adding_software_instruction/namignizer/Output_screenshot.png)
