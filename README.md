@@ -27,4 +27,4 @@ Run original SmallNames.txt :
 
 Learning rate was changed, resulted in decreased running time and varied result perplexity. 
 
-![image](https://github.com/caoliyi/EC601HW/blob/adding_software_instruction/namignizer/Output_screenshot.png)
+![image](https://github.com/caoliyi/EC601HW/blob/adding_software_instruction/namignizer/modified_output.png)
