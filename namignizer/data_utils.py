@@ -82,7 +82,8 @@ def namignizer_iterator(names, counts, batch_size, num_steps, epoch_size):
         for sample in samples:
             if data_index >= batch_size * num_steps:
                 break
-            for letter in map(_letter_to_number, sample) + [_EON]:
+            
+            for letter in list(map(_letter_to_number, sample)) + [_EON]:
                 if data_index >= batch_size * num_steps:
                     break
                 data[data_index] = letter
@@ -109,7 +110,7 @@ def name_to_batch(name, batch_size, num_steps):
     data = np.zeros(batch_size * num_steps + 1)
 
     data_index = 0
-    for letter in map(_letter_to_number, name) + [_EON]:
+    for letter in list(map(_letter_to_number, name)) + [_EON]:
         data[data_index] = letter
         data_index += 1
 
